@@ -7,4 +7,4 @@ Simple tutorial for :
 5. Fill NaN data
 6. Check for outliers
 
-Repository Link : https://github.com/ReginaGradys/ProjectDataFrame/blob/main/Code%20create%20dataframe-Regina.ipynb
+Repository Link : https://github.com/ReginaGradys/ProjectDataFrame
